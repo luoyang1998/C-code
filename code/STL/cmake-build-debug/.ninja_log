@@ -1,0 +1,19 @@
+# ninja log v5
+3	861	7076766795611352	CMakeFiles/STL.dir/main.cpp.obj	e9d1966fcfcd1636
+862	1304	7076766799843850	STL.exe	aa11bf8ca7a525af
+8	3203	7098370439845553	CMakeFiles/01Exception.cpp.dir/01Exception.cpp.obj	e234c1c06e8ac619
+3204	4681	7098370454510629	01Exception.cpp.exe	556e2de2289a9d46
+841	1061	7099870741980933	02Deqeue.cpp.exe	a5dbcdce7e5a75a5
+3	841	7099870739916327	CMakeFiles/02Deqeue.cpp.dir/02Deqeue.cpp.obj	aa11692995461bee
+3	1142	7104376219159905	CMakeFiles/02Deqeue.cpp.dir/02Deqeue.cpp.obj	aa11692995461bee
+1143	2075	7104376228361042	02Deqeue.cpp.exe	a5dbcdce7e5a75a5
+1	1056	7104376473205938	CMakeFiles/03Multimap.cpp.dir/03Multimap.cpp.obj	cdbc538e4d144a43
+1057	1253	7104376475037567	03Multimap.cpp.exe	fedaa6ff2dda53ce
+4	913	7104419942212571	CMakeFiles/03Multimap.cpp.dir/03Multimap.cpp.obj	cdbc538e4d144a43
+913	1175	7104419944701535	03Multimap.cpp.exe	fedaa6ff2dda53ce
+3	653	7104420176486025	CMakeFiles/03Multimap.cpp.dir/03Multimap.cpp.obj	cdbc538e4d144a43
+654	852	7104420178344980	03Multimap.cpp.exe	fedaa6ff2dda53ce
+3	709	7104421817414403	CMakeFiles/03Multimap.cpp.dir/03Multimap.cpp.obj	cdbc538e4d144a43
+709	906	7104421819249828	03Multimap.cpp.exe	fedaa6ff2dda53ce
+4	699	7104422679749767	CMakeFiles/03Multimap.cpp.dir/03Multimap.cpp.obj	cdbc538e4d144a43
+699	899	7104422681600500	03Multimap.cpp.exe	fedaa6ff2dda53ce

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01circle.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02limit.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/03function.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/04copy.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/05InitializeList.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/06ObjectCharacter.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/07StaticMemberVariable.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/08thisP.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/09firend.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10OperatorOverload.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/11Inherit.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/12MultipleInherit.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="GBK" />
+  </component>
+</project>

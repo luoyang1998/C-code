@@ -1,0 +1,7 @@
+G:/Ccode/DesignPatterns/cmake-build-debug/CMakeFiles/DesignPatterns.dir
+G:/Ccode/DesignPatterns/cmake-build-debug/CMakeFiles/singleton.cpp.dir
+G:/Ccode/DesignPatterns/cmake-build-debug/CMakeFiles/simpleFactory.cpp.dir
+G:/Ccode/DesignPatterns/cmake-build-debug/CMakeFiles/factory.cpp.dir
+G:/Ccode/DesignPatterns/cmake-build-debug/CMakeFiles/abstractFactory.cpp.dir
+G:/Ccode/DesignPatterns/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Ccode/DesignPatterns/cmake-build-debug/CMakeFiles/rebuild_cache.dir

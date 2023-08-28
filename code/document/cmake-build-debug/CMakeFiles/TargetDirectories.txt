@@ -1,0 +1,4 @@
+G:/Ccode/code/document/cmake-build-debug/CMakeFiles/document.dir
+G:/Ccode/code/document/cmake-build-debug/CMakeFiles/BinarryFile.dir
+G:/Ccode/code/document/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Ccode/code/document/cmake-build-debug/CMakeFiles/rebuild_cache.dir

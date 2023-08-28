@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "code",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CstySting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CstySting-Debug-bf9b9b940838aa77b3db.json",
+					"name" : "CstySting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "citeStruct::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-citeStruct-Debug-0cca4c4a40b52b0aad20.json",
+					"name" : "citeStruct",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cookies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cookies-Debug-70ba982aaa1b4d77013c.json",
+					"name" : "cookies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "funcArray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-funcArray-Debug-39c5274aee1b667e4198.json",
+					"name" : "funcArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "funcCite::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-funcCite-Debug-9a537ce7d58303616a94.json",
+					"name" : "funcCite",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "funcFor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-funcFor-Debug-5b899696b7064d89023a.json",
+					"name" : "funcFor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "funcNeedle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-funcNeedle-Debug-d4493cdf711bec6a8c7c.json",
+					"name" : "funcNeedle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "funcRecursion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-funcRecursion-Debug-8b3ed11aa44c28bd8c18.json",
+					"name" : "funcRecursion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "funcString::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-funcString-Debug-02201fc449b1d427c262.json",
+					"name" : "funcString",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "funcStruct::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-funcStruct-Debug-11e37cc6c08b7a2d9533.json",
+					"name" : "funcStruct",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "house::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-house-Debug-242b4e80f9d895c08d39.json",
+					"name" : "house",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "twoDArray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-twoDArray-Debug-c022bad756e0d27bff14.json",
+					"name" : "twoDArray",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Ccode/code/function/cmake-build-debug",
+		"source" : "G:/Ccode/code/function"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

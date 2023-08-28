@@ -1,0 +1,213 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "template",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01arraySort.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01arraySort.cpp-Debug-c8e2b98067aa9a195543.json",
+					"name" : "01arraySort.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02classTemplate.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02classTemplate.cpp-Debug-50f1718d4708a57d4bde.json",
+					"name" : "02classTemplate.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03Sub-file.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03Sub-file.cpp-Debug-e12d10194606eb72e181.json",
+					"name" : "03Sub-file.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04Friend.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04Friend.cpp-Debug-545d176426af9fe4498c.json",
+					"name" : "04Friend.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05vector.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05vector.cpp-Debug-bd3a732f4fc6f3d83c4d.json",
+					"name" : "05vector.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06stringContainer.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06stringContainer.cpp-Debug-be8c31ab4475dc4c893c.json",
+					"name" : "06stringContainer.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07vectorContainer.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07vectorContainer.cpp-Debug-3d63a9a94e4767bb6703.json",
+					"name" : "07vectorContainer.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08dequeContainer.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08dequeContainer.cpp-Debug-a5755b18dbfb0c7b414a.json",
+					"name" : "08dequeContainer.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09listContainer.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09listContainer.cpp-Debug-ff2678f3ae8cc31f7ce9.json",
+					"name" : "09listContainer.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10setContainer.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10setContainer.cpp-Debug-82d932f8b2932e0ba654.json",
+					"name" : "10setContainer.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11mapContainer.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11mapContainer.cpp-Debug-1bc37bb5c5fc8aa22352.json",
+					"name" : "11mapContainer.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12predicate.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12predicate.cpp-Debug-d7d9d7c7d4b919fdd8b3.json",
+					"name" : "12predicate.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13imitationFunction.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13imitationFunction.cpp-Debug-8c01e176b9ce40a59db0.json",
+					"name" : "13imitationFunction.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "14searchAlgorithm.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-14searchAlgorithm.cpp-Debug-db4a90ed916e1f18eaa3.json",
+					"name" : "14searchAlgorithm.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "15sortAlgorithm.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15sortAlgorithm.cpp-Debug-f24a3f7ff7bfe0ad1bfe.json",
+					"name" : "15sortAlgorithm.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "16setAlgorithm.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-16setAlgorithm.cpp-Debug-c19c3edbb9d906aae4c6.json",
+					"name" : "16setAlgorithm.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person.cpp-Debug-3ee2e4e97a32859f3f45.json",
+					"name" : "person.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "template::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-template-Debug-34e1a4abe9f258d8e7fd.json",
+					"name" : "template",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Ccode/code/template/cmake-build-debug",
+		"source" : "G:/Ccode/code/template"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

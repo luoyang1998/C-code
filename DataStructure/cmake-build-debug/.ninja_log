@@ -1,0 +1,19 @@
+# ninja log v5
+3	529	6976355970644211	CMakeFiles/DataStructure.dir/main.cpp.obj	146431448ef78577
+6	685	6977004398042377	CMakeFiles/Two-wayLinkedList.cpp.dir/Two-wayLinkedList.cpp.obj	cb8df5009e82db65
+1184	1821	6977851650785083	arrayStack.cpp.exe	1c953418afec2cd3
+1	605	6977034206794452	CMakeFiles/Stack.cpp.dir/Stack.cpp.obj	8e4280d7e008b117
+529	701	6976355972210354	DataStructure.exe	b89f28c115719cc5
+606	786	6977034208599138	Stack.cpp.exe	17a23ce9b740f0c2
+686	897	6977004399772826	Two-wayLinkedList.cpp.exe	90f8115a9a2f4316
+1	1183	6977851644572920	CMakeFiles/arrayStack.cpp.dir/arrayStack.cpp.obj	41e7c9c07333eda0
+0	953	6977860985346206	CMakeFiles/listStack.cpp.dir/listStack.cpp.obj	5ee2c095b0b05e44
+954	1157	6977860987231170	listStack.cpp.exe	479cdeab2d37a2dc
+0	3183	7137162439228909	CMakeFiles/tree.cpp.dir/tree.cpp.obj	ae98afde14debd8a
+3183	3847	7137162445799605	tree.cpp.exe	3891ee4c780be1a8
+3	1144	7144798212138845	CMakeFiles/tree.cpp.dir/tree.cpp.obj	ae98afde14debd8a
+1145	1707	7144798217607483	tree.cpp.exe	3891ee4c780be1a8
+1	1838	7144798454804854	CMakeFiles/que2stack.cpp.dir/que2stack.cpp.obj	aba692c96ade99dd
+1839	2027	7144798456542583	que2stack.cpp.exe	2327d98ee0f6e306
+3	671	7144799011381103	CMakeFiles/que2stack.cpp.dir/que2stack.cpp.obj	aba692c96ade99dd
+671	876	7144799013250048	que2stack.cpp.exe	2327d98ee0f6e306

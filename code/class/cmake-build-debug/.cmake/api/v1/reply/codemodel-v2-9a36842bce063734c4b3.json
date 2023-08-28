@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "class",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03function::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03function-Debug-3a0a0d8930bb49e3f197.json",
+					"name" : "03function",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04copy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04copy-Debug-ef3c64f31457a77da365.json",
+					"name" : "04copy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05InitializeList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05InitializeList-Debug-a97290da458f4201bb70.json",
+					"name" : "05InitializeList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06ObjectCharacter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06ObjectCharacter-Debug-1660a5ae06c657839d7e.json",
+					"name" : "06ObjectCharacter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07StaticMemberVariable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07StaticMemberVariable-Debug-fe867a861004e3b7dc78.json",
+					"name" : "07StaticMemberVariable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08thisP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08thisP-Debug-55b8c890d50ecfb08d3a.json",
+					"name" : "08thisP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09firend::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09firend-Debug-ad1a6c060478d4f34e15.json",
+					"name" : "09firend",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10OperatorOverload::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10OperatorOverload-Debug-fe9f7bbde9a0b09db7f4.json",
+					"name" : "10OperatorOverload",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11Inherit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11Inherit-Debug-550d981da4aaa4f46b54.json",
+					"name" : "11Inherit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12MultipleInherit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12MultipleInherit-Debug-576983345b5b99f20f98.json",
+					"name" : "12MultipleInherit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-class-Debug-6f584fb8078722db47f2.json",
+					"name" : "class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limit-Debug-2848ef54b81b4442cd40.json",
+					"name" : "limit",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Ccode/code/class/cmake-build-debug",
+		"source" : "G:/Ccode/code/class"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

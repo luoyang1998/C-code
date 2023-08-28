@@ -1,0 +1,14 @@
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/house.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/funcFor.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/cookies.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/twoDArray.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/CstySting.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/funcStruct.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/funcString.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/funcArray.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/funcRecursion.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/funcNeedle.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/funcCite.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/citeStruct.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Ccode/code/function/cmake-build-debug/CMakeFiles/rebuild_cache.dir

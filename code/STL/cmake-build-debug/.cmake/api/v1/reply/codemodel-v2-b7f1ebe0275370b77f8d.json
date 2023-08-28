@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "STL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01Exception.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01Exception.cpp-Debug-7be2f8518ad8267cda50.json",
+					"name" : "01Exception.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02Deqeue.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02Deqeue.cpp-Debug-ffd10ee9ca01f6481cbf.json",
+					"name" : "02Deqeue.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03Multimap.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03Multimap.cpp-Debug-df6039ecec42eb1ab114.json",
+					"name" : "03Multimap.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "STL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STL-Debug-bb8840c9278fcefd3898.json",
+					"name" : "STL",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Ccode/code/STL/cmake-build-debug",
+		"source" : "G:/Ccode/code/STL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
