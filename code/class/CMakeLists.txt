@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.23)
+project(class)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(class 01circle.cpp)
+add_executable(limit 02limit.cpp)
+add_executable(03function 03function.cpp)
+add_executable(04copy 04copy.cpp)
+add_executable(05InitializeList 05InitializeList.cpp)
+add_executable(06ObjectCharacter 06ObjectCharacter.cpp)
+add_executable(07StaticMemberVariable 07StaticMemberVariable.cpp)
+add_executable(08thisP 08thisP.cpp)
+add_executable(09firend 09firend.cpp)
+add_executable(10OperatorOverload 10OperatorOverload.cpp)
+add_executable(11Inherit 11Inherit.cpp)
+add_executable(12MultipleInherit 12MultipleInherit.cpp)

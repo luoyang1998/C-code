@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DataStructure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure-Debug-a831e20aae286eb0d5bc.json",
+					"name" : "DataStructure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Two-wayLinkedList.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Two-wayLinkedList.cpp-Debug-21093f63bbe936ee9889.json",
+					"name" : "Two-wayLinkedList.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "arrayStack.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arrayStack.cpp-Debug-6ec65b71f5852ea3297a.json",
+					"name" : "arrayStack.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "listStack.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-listStack.cpp-Debug-f3bf0e9c846fad917343.json",
+					"name" : "listStack.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que2stack.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que2stack.cpp-Debug-5a9a471554e2a7f6dade.json",
+					"name" : "que2stack.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tree.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tree.cpp-Debug-f1be6cb4777c9c737be7.json",
+					"name" : "tree.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "treeMaxDistance.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-treeMaxDistance.cpp-Debug-3d93edd32725603aa743.json",
+					"name" : "treeMaxDistance.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Ccode/DataStructure/cmake-build-debug",
+		"source" : "G:/Ccode/DataStructure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

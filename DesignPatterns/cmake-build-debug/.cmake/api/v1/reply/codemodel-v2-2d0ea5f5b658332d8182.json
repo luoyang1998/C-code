@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DesignPatterns",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DesignPatterns::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DesignPatterns-Debug-961d11f0294ce6a41fbb.json",
+					"name" : "DesignPatterns",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "abstractFactory.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-abstractFactory.cpp-Debug-3d329c875aa247cd55f9.json",
+					"name" : "abstractFactory.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "factory.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-factory.cpp-Debug-72e66936a20f5799331a.json",
+					"name" : "factory.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleFactory.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleFactory.cpp-Debug-5b7c71f4d0b66cddd4ff.json",
+					"name" : "simpleFactory.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "singleton.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-singleton.cpp-Debug-c295b757bafff0a28e2d.json",
+					"name" : "singleton.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Ccode/DesignPatterns/cmake-build-debug",
+		"source" : "G:/Ccode/DesignPatterns"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

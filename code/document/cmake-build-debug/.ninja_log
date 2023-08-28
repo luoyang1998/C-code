@@ -1,0 +1,7 @@
+# ninja log v5
+7	659	6954771390486677	CMakeFiles/document.dir/main.cpp.obj	17e2e78612e5d2b7
+660	838	6954771392112658	document.exe	f1b25b414d9363a4
+1	687	6954786412780086	CMakeFiles/BinarryFile.dir/02_BinaryFile.cpp.obj	6f8120e31f614055
+689	845	6954786414224794	BinarryFile.exe	3a924e71c446b51f
+4	734	6954790700127967	CMakeFiles/BinarryFile.dir/02_BinaryFile.cpp.obj	6f8120e31f614055
+735	967	6954790702122777	BinarryFile.exe	3a924e71c446b51f

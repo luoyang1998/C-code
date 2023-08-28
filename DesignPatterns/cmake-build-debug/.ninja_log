@@ -1,0 +1,9 @@
+# ninja log v5
+0	447	7116133592992076	CMakeFiles/DesignPatterns.dir/main.cpp.obj	a2333dd860306439
+867	1061	7120409086117251	Singleton.cpp.exe	8f8715c621834c91
+452	702	7116133595397785	DesignPatterns.exe	b8209cee049b41f8
+1417	2264	7122180871253723	factory.cpp.exe	419703d454701ee8
+5	866	7120409084308539	CMakeFiles/Singleton.cpp.dir/Singleton.cpp.obj	daa6735946f50206
+1	2821	7122156544376748	CMakeFiles/simpleFactory.cpp.dir/simpleFactory.cpp.obj	8ff554f371af3e78
+2822	3374	7122156549771947	simpleFactory.cpp.exe	19b0d3de774b537e
+1	1416	7122180863464566	CMakeFiles/factory.cpp.dir/factory.cpp.obj	e5bc943ed75e5ea9
